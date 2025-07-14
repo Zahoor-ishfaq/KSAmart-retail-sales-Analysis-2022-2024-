@@ -22,12 +22,12 @@ Tools Used
 
 📁 Project Structure
 
-KSAmart Sales Analysis/
+-KSAmart Sales Analysis/
 
- /📊 PowerBI Dashboard (PBIX file+pdf)
- /📈 Excel Workbook (Cleaned Data, Charts, Insights)
- /📄 PPT Presentation (Business Problem, Charts, Recommendations+pdf)
- README.md
+- 📊 PowerBI Dashboard (PBIX file+pdf)
+- 📈 Excel Workbook (Cleaned Data, Charts, Insights)
+- 📄 PPT Presentation (Business Problem, Charts, Recommendations+pdf)
+- README.md
 
 Data Cleaning Summary
 
